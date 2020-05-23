@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Strawberry + Peach",
+    "subtitle": "Smoothie",
+    "descriptionTitle": "Tastes Like: Strawberry Banana Sherbet",
+    "description": "Consider this blend the pick-me-up of all smoothies. It's sweet, satisfying and will get you back on your feet in no time. Strawberry and peach give it its classic fruit flavor, and oats and flax seeds provide fiber to keep you full and happy all day. Did you know that goji berries contain more iron than spinach and have the highest protein content of any fruit? Bring on the revival of the fittest.",
+    "features": [
+      "So Smooth",
+      "Going Down",
+      "Best Feature"
+    ],
+    "price": 500,
+    "images": [
+      "https://images.unsplash.com/photo-1543573852-1a71a6ce19bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "https://images.unsplash.com/photo-1505252585461-04db1eb84625?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=352&q=80",
+      "https://images.unsplash.com/photo-1506458961255-571f40df5aad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1506802913710-40e2e66339c9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1547775259-ee69733d540f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+    ]
+  },
+  {
+    "title": "Mint + Cacao",
+    "subtitle": "Smoothie",
+    "descriptionTitle": "Tastes Like: Mint Chip Ice Cream",
+    "description": "Chip away at free radicals with this fresh mint chocolate dream. This blend tastes like a treat, but the cacao nibs and chlorella work hard to protect your body from harmful compounds such as heavy metals and other environmental toxins. A variety of vital nutrients like spinach for iron, bananas for vitamin C and potassium and cashew butter for heart-healthy fat will keep your body running deliciously efficiently.",
+    "features": [
+      "Workout-Recovery",
+      "Energizing",
+      "Cleansing"
+    ],
+    "price": 200,
+    "images": [
+      "https://images.unsplash.com/photo-1523554879540-cd4fdd3c0519?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1552842016-443bcee0667b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1564352039417-76dbfa5009e4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1521146490572-acf652a27fb9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1550461716-dbf266b2a8a7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+    ]
+  }
+]
